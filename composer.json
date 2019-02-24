@@ -1,0 +1,14 @@
+{
+    "name": "sunrise/coding-standard",
+    "description": "Sunrise // PHP Coding Standard",
+    "keywords": ["fenric", "sunrise", "coding standard", "psr-1", "psr-2"],
+    "homepage": "https://github.com/sunrise-php/coding-standard",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anatoly Fenric",
+            "email": "anatoly@fenric.ru",
+            "homepage": "https://anatoly.fenric.ru/"
+        }
+    ]
+}
