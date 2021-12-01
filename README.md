@@ -26,3 +26,4 @@ composer require sunrise/coding-standard
 
 * https://www.php-fig.org/psr/psr-1/
 * https://www.php-fig.org/psr/psr-2/
+* https://www.php-fig.org/psr/psr-12/
